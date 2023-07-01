@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yamin Haque</h1>
-<h3 align="center">Currently doing bachelor's degree in Computer Science & Engineering from Rajshahi University of Engineering & Techonology.</h3>
+<h3 align="center">Graduate in CSE from RUET. Currently working for Shanghai BDCOM Info Tech Co. Ltd. as a Research and Development Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamin1999&label=Profile%20views&color=0e75b6&style=flat" alt="yamin1999" /> </p>
 
