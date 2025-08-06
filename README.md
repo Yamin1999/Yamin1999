@@ -11,6 +11,27 @@ Dynamic and detail-oriented embedded systems engineer with a passion for firmwar
 ## 📊 Profile Views
 ![](https://komarev.com/ghpvc/?username=yamin1999&label=Profile%20views&color=0e75b6&style=flat)
 
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaminhaque/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i__am__in__)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/yaminhaque)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yamin1999)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/yamin1999)
+
+## 🌱 Currently Learning
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend_Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
+
+## 🎯 Current Focus
+- 🔭 Working on networking protocols and embedded systems
+- 🛠️ Developing different modules and network switch software solutions
+- 💻 Specializing in VxWorks, Embedded Linux, and microcontroller-based solutions
+- 📡 Focusing on protocol development, system integration, and performance optimization
+  
+- 💬 Ask me about Embedded Systems, Networking Protocols, RTOS, Backend Development, or Firmware Development
+
 ## 🔧 Tech Stack
 
 ### Programming Languages
@@ -43,10 +64,7 @@ Dynamic and detail-oriented embedded systems engineer with a passion for firmwar
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 
-## 🌱 Currently Learning
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend_Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
+
 
 ## 🏆 Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-100%2B%20Problems-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yamin1999)
@@ -59,33 +77,12 @@ Dynamic and detail-oriented embedded systems engineer with a passion for firmwar
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin1999&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamin1999&theme=tokyonight" alt="yamin1999" />
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yamin1999&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 
-## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaminhaque/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i__am__in__)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/yaminhaque)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yamin1999)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/yamin1999)
-
-## 🎯 Current Focus
-- 🔭 Working on networking protocols and embedded systems
-- 🛠️ Developing different modules and network switch software solutions
-- 🌱 Studying and implementing networking standards, RFCs, and protocol stacks
-- 💻 Specializing in VxWorks, Embedded Linux, and microcontroller-based solutions
-- 📡 Focusing on protocol development, system integration, and performance optimization
-- 💬 Ask me about Embedded Systems, Networking Protocols, RTOS, Backend Development, or Firmware Development
 
 ---
-<div align="center">
-  <i>⭐️ From [yamin1999](https://github.com/yamin1999)</i>
-</div>
