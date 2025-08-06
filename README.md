@@ -2,10 +2,6 @@
 
 <p align="center"><i>"Coder by passion, panda by nature"</i></p>
 
-## 🚀 About Me
-**Software Engineer (R&D)** at Shanghai BDCOM Information Technology Co., Ltd.  
-**B.Sc. in Computer Science & Engineering** from RUET
-
 Dynamic and detail-oriented embedded systems engineer with a passion for firmware development and network protocols. Specializing in microcontroller-based solutions, RTOS, embedded Linux, and networking technologies. I thrive on optimizing system performance and problem-solving in resource-constrained environments, with expertise in protocol development and system integration.
 
 ## 📊 Profile Views
